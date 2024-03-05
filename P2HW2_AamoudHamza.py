@@ -3,15 +3,11 @@
 #P2HW2
 #Taking user input and creating a list
 
-'''
-
-Take module 1-6 test score inputs from user
-Insert test scores into scores list
-Find list min,max,sum, and length
-Divide sum but length to find average
-Display min, max, sum, and average
-
-'''
+#Take module 1-6 test score inputs from user
+#Insert test scores into scores list
+#Find list min,max,sum, and length
+#Divide sum but length to find average
+#Display min, max, sum, and average
 
 mod1 = float(input("Enter Module 1 Test Score : "))
 mod2 = float(input("Enter Module 2 Test Score : "))
