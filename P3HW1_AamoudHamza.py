@@ -28,7 +28,7 @@ avg = sum / len(grades)
 
 print('------Results------')
 print("Lowest Grade:     ",low)
-print("Higfhest Grade:   ",high)
+print("Highest Grade:   ",high)
 print("Sum of Grades:    ",sum)
 print(f'Average:           {avg:.2f}')
 print('-------------------')
